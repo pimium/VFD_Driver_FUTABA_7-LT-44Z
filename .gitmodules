@@ -1,0 +1,9 @@
+[submodule "vfd_driver_pwr_kicad"]
+	path = vfd_driver_pwr_kicad
+	url = https://github.com/pimium/vfd_driver_pwr_kicad.git
+[submodule "vfd_driver_board_kicad"]
+	path = vfd_driver_board_kicad
+	url = https://github.com/pimium/vfd_driver_board_kicad.git
+[submodule "vfd_driver_avr"]
+	path = vfd_driver_avr
+	url = https://github.com/pimium/vfd_driver_avr.git
